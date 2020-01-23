@@ -1,0 +1,15 @@
+dog
+cat
+snail
+cow
+fish
+elephant
+lion
+penguin
+ant
+bird
+tiger
+bear
+snake
+horse
+pig
